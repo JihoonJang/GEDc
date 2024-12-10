@@ -1,5 +1,5 @@
 # GEDc
-GEDc. Calculates the graph edit distance between a single query graph and a data graph or between a single query graph and a database of graphs.
+GEDc. Computes the graph edit distance between a single query graph and a data graph or between a single query graph and a database of graphs.
 
 ## Environment
 GEDc requires Python 3 running on a machine with 64-bit Linux. Ensure that the `./bin/GEDc` binary is available and executable in your working directory.
