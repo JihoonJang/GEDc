@@ -1,18 +1,18 @@
-# GED
-GED. Calculates the graph edit distance (GED) between a single query graph and a data graph or between a single query graph and a database of graphs.
+# GEDc
+GEDc. Calculates the graph edit distance between a single query graph and a data graph or between a single query graph and a database of graphs.
 
 ## Environment
-GED requires Python 3 running on a machine with 64-bit Linux. Ensure that the `./bin/GED` binary is available and executable in your working directory.
+GEDc requires Python 3 running on a machine with 64-bit Linux. Ensure that the `./bin/GEDc` binary is available and executable in your working directory.
 
 ## Installation
 ```sh
-git clone https://github.com/SNUCSE-CTA/GED
-cd GED
+git clone https://github.com/SNUCSE-CTA/GEDc.git
+cd GEDc
 ```
 
 ## Usage
 ```sh
-python3 GED.py <query_file_path> <data_file_path>
+python3 GEDc.py <query_file_path> <data_file_path>
 ```
 
 ## Input
